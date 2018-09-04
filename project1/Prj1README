@@ -1,0 +1,23 @@
+Prj1_516030910306
+	Prj1README                  # file directory
+	Problem1
+		ptree.c                 # module
+		Makefile                # Makfile
+		README.md               # description of Problem1
+	Problem2
+		testscript.txt          # output of my program
+		jni
+			Android.mk          # makefile
+			pstree.c            # my source code
+		README.md               # description of Problem2
+	Problem3
+		testscript.txt          # output of my program
+		jni
+			Android.mk          # makefile
+			parent_child.c      # my source code
+		README.md               # description of Problem3
+	Problem4
+		server.c                # source code of server
+		client.c                # source code of
+		testscript.txt          # output of my program
+		README.md               # description of Problem4

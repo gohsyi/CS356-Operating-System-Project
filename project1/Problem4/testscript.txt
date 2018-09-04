@@ -1,0 +1,30 @@
+Server initiating...
+Receiving message: client 1
+Receiving message: client 2
+Server thread closing...
+Receiving message: client 3 again
+Server thread closing...
+Server thread closing...
+
+
+Please enter the message:
+client 1
+From server: folhqw 1
+:q
+Client closing...
+
+
+Please enter the message:
+client 2
+From server: folhqw 2
+:q
+Client closing...
+
+
+Please enter the message:
+client 3
+From server: Please wait...
+client 3 again
+From server: folhqw 3 djdlq
+:q
+Client closing...
